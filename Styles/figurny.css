@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Figurny';
+	src: url('../fonts/figurny.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/figurny.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/figurny.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/figurny.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/figurny.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/figurny.svg#figurny') format('svg'); /* Chrome < 4, Legacy iOS */
+}
