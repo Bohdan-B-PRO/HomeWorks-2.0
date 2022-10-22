@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Mouser Outline';
+	src: url('../fonts/mouser_outline.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/mouser_outline.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/mouser_outline.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/mouser_outline.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/mouser_outline.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/mouser_outline.svg#mouser_outline') format('svg'); /* Chrome < 4, Legacy iOS */
+}
